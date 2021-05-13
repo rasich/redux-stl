@@ -1,0 +1,46 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.header button.btn-group {
+  padding: 0;
+  height: 36px;
+}
+.header button.btn-sort {
+  padding-top: 6px;
+}
+.btn-group span {
+  height: 100%;
+  overflow: hidden;
+}
+.btn-group span .link{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+}
+
+h1 {
+  margin: 0;
+  padding: 0;
+}
+.empty {
+  display: none;
+}
+span.visible{
+  display: inline-block;
+}
+span.hidden{
+  display: none;
+}
+
+button.visible{
+  display: inline-block;
+}
+button.hidden{
+  display: none;
+}

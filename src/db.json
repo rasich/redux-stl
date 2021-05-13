@@ -1,0 +1,86 @@
+{
+  "customers": [
+    {
+      "name": "Anna",
+      "phone": 22224,
+      "email": "zx@cv.bn",
+      "country": "USA",
+      "age": 24,
+      "id": 2
+    },
+    {
+      "name": "Boris",
+      "phone": 55551,
+      "email": "zx@cv.bn",
+      "country": "USA",
+      "age": 24,
+      "id": 5
+    },
+    {
+      "name": "Ivan Lorem ipsum dolor sit amet",
+      "phone": 11115,
+      "email": "qw@er.ty",
+      "country": "Australia",
+      "age": 21,
+      "id": 1
+    },
+    {
+      "name": "Nikolay",
+      "phone": 33333,
+      "email": "zx@cv.bn",
+      "country": "USA",
+      "age": 24,
+      "id": 3
+    },
+    {
+      "name": "Piter",
+      "phone": 44442,
+      "email": "as@df.gh",
+      "country": "Russia",
+      "age": 27,
+      "id": 4
+    }
+  ],
+  "reserve": [
+    {
+      "name": "Ivan Lorem ipsum dolor sit amet",
+      "phone": 11115,
+      "email": "qw@er.ty",
+      "country": "Australia",
+      "age": 21,
+      "id": 1
+    },
+    {
+      "name": "Anna",
+      "phone": 22224,
+      "email": "zx@cv.bn",
+      "country": "USA",
+      "age": 24,
+      "id": 2
+    },
+    {
+      "name": "Nikolay",
+      "phone": 33333,
+      "email": "zx@cv.bn",
+      "country": "USA",
+      "age": 24,
+      "id": 3
+    },
+    {
+      "name": "Piter",
+      "phone": 44442,
+      "email": "as@df.gh",
+      "country": "Russia",
+      "age": 27,
+      "id": 4
+    },
+    {
+      "name": "Boris",
+      "phone": 55551,
+      "email": "zx@cv.bn",
+      "country": "USA",
+      "age": 24,
+      "id": 5
+    }
+  ]
+}

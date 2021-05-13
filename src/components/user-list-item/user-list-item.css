@@ -1,0 +1,42 @@
+.user {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 5px 0;
+  border-bottom: 1px solid rgba(131, 131, 131, 0.514);
+}
+.user:last-child {
+  border-bottom: none;
+}
+.user:hover {
+  background-color: rgb(233, 233, 233);
+}
+.user-title {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  margin-right: 30px;
+}
+.user-title span {
+  width: 19%;
+  text-align: center;
+  
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+button.link-btn {
+  padding: 0;
+}
+.link-btn span {
+  height: 100%;
+  overflow: hidden;
+}
+.link-btn span .link{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  padding: 0px 15px;
+}

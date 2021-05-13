@@ -1,0 +1,24 @@
+.list {
+  padding: 20px 0;
+}
+.list-title {
+  display: flex;
+  justify-content: space-between;
+  margin-right: 140px;
+  margin-bottom: 10px;
+}
+.list-title span{
+  font-size: 1.2em;
+  font-weight: bold;
+
+  width: 19%;
+  text-align: center;
+}
+.list ul{
+  margin: 0;
+  padding: 0;
+}
+
+.hidden {
+  display: none;
+}
